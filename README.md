@@ -2,6 +2,8 @@
 Burger King Gameboy Color Toy PCBs for use with a Raspberry Pi Zero W and a SPI 2.0inch LCD linked below:<br>
 https://www.aliexpress.com/item/QVGA320240-2-inch-SPI-serial-screen-320-240-12pin-ST7789V-2-0-inch-LCD/32906389474.html
 
+If you use these or edit them please leave my name or mention of where you got them.
+
 Installation of Drivers (Run each command one line at a time in the terminal unless specified):
 
 `sudo nano /etc/modules-load.d/fbtft.conf`<br>
